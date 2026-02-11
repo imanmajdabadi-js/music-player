@@ -16,7 +16,6 @@ A web-based music player demonstrating component-based architecture and React st
 - React
 - TypeScript
 - Tailwind CSS
-- HTML5 Audio API
 
 ## Screenshot
 
