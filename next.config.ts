@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    // اجازه لود عکس از public و هر مسیر داخلی
     unoptimized: true,
   },
   async headers() {
