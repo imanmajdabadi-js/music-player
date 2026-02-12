@@ -19,7 +19,7 @@ A web-based music player demonstrating component-based architecture and React st
 
 ## Screenshot
 
-![Music Player Screenshot-2](public/assets/images/screenshots/music-player2.png)
+![Music Player Screenshot-2](/assets/images/screenshots/music-player2.png)
 
 ## Getting Started
 
